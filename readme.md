@@ -4,6 +4,9 @@
 
 A reinforcement learning-based AI to play the classic Snake game using a deep Q-network.
 
+<p align="center">
+  <img alt="GIF" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlOGhyNndjdDk3MW84MGdlenVxNXJ4cXU2MWgxdWUxaTc1MGduaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JOTFaDuISTbge4/giphy.gif">
+</p>
 
 ## Introduction
 
